@@ -7,3 +7,8 @@ A: The routing engine in Express takes the HTTP method and the URL, puts them to
    maps them and puts them into a JavaScript function.  The "function" is the route 
    handler.
    
+## Design process
+
+- gather requirements    
+- list of resources (nouns) [songs, users, pets]    
+- 
