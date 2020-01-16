@@ -27,4 +27,5 @@ A: The routing engine in Express takes the HTTP method and the URL, puts them to
 - paginated list (filters)
 - album art
 
-
+|Action|Method|Endpoint|
+|:--|:--:|:--:|
