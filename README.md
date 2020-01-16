@@ -33,4 +33,4 @@ A: The routing engine in Express takes the HTTP method and the URL, puts them to
 |Create a song|POST|/api/songs|
 |Update a song|PUT|/api/songs/:id|
 |Remove a song|Delete|/api/songs/:id|
-|Add Album Art|POST|/api/songs/:id/cover|
+|Add Album Art|POST/PUT|/api/songs/:id/cover|
