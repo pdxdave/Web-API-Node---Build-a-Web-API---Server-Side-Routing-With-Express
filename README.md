@@ -11,4 +11,20 @@ A: The routing engine in Express takes the HTTP method and the URL, puts them to
 
 - gather requirements    
 - list of resources (nouns) [songs, users, pets]    
-- 
+- list of endpoints
+
+## Endpoints
+
+- avoid using verbs. it's not a URL, it's a URI (e.g., /api/songs)    
+- actions are expressed with http methods   
+
+## Songs
+- create  
+- find a song by (filters)
+- read
+- update
+- delete
+- paginated list (filters)
+- album art
+
+
