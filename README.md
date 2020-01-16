@@ -29,3 +29,6 @@ A: The routing engine in Express takes the HTTP method and the URL, puts them to
 
 |Action|Method|Endpoint|
 |:--|:--:|:--:|
+|List songs|GET|/api/songs|
+|Create a song|POST|/api/songs|
+|Update a song|PUT|/api/songs/:id|
