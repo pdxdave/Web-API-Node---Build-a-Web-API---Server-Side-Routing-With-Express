@@ -18,7 +18,14 @@ A: The routing engine in Express takes the HTTP method and the URL, puts them to
 - avoid using verbs. it's not a URL, it's a URI (e.g., /api/songs)    
 - actions are expressed with http methods   
 
-## Songs
+## Properties
+- name
+- duration
+- artists
+- year
+- recordLabel
+
+## Actions
 - create  
 - find a song by (filters)
 - read
